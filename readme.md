@@ -1,4 +1,4 @@
-## Documentação Simles para executar o projeto.
+## Documentação Simples para executar o projeto.
 
 1. Executar o dump que se encontra dentro da pasta utils, esse dump se refere a tabela de verbas que tem bastante dados, banco de dados utilizado: MySQL.
 
